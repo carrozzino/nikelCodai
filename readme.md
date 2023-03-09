@@ -1,3 +1,5 @@
+<h1>Nikel Codai</h1>
+
 O sistema de controle financeiro é uma ferramenta simples e eficiente para gerenciar suas finanças pessoais. Ao acessar o sistema, o usuário é direcionado para a página de login e cadastro, onde ele pode criar uma conta ou fazer login em uma conta existente.
 
 Uma vez logado, o usuário tem acesso a duas páginas principais. A primeira é a página de histórico, onde ele pode visualizar todas as transações que foram feitas em sua conta, incluindo depósitos, retiradas e descrições correspondentes. A segunda página é a página de adicionar novas transações, onde ele pode inserir informações sobre uma nova transação, como o valor, o tipo de transação (depósito ou retirada) e uma breve descrição da transação.
